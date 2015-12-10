@@ -1,0 +1,19 @@
+{
+  "name": "cycle-isomorphic-fetch-driver",
+  "version": "0.0.0",
+  "description": "A Cycle.js Driver for making HTTP requests",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kibin/cycle-isomorphic-fetch-driver.git"
+  },
+  "author": "A. Kibin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kibin/cycle-isomorphic-fetch-driver/issues"
+  },
+  "homepage": "https://github.com/kibin/cycle-isomorphic-fetch-driver#readme"
+}
